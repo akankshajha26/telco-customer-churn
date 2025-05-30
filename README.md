@@ -59,7 +59,7 @@ I tested several classification models and compared them using accuracy, precisi
 
 ## What I Learned
 
-Uhmm, this project really helped me understand how feature relationships and good preprocessing can improve model performance. It also made me more confident in evaluating classification models and presenting business-relevant insights.
+This project really helped me understand how feature relationships and good preprocessing can improve model performance. It also made me more confident in evaluating classification models and presenting business-relevant insights.
 
 ---
 
